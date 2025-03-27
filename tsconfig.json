@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(screens)/welcome1.jsx", "app/(screens)/welcome2.jsx", "app/(screens)/welcome3.jsx", "app/(screens)/welcome4.jsx"  ]
 }
